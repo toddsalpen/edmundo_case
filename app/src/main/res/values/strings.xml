@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejemplo</string>
+    <string name="edmundo_hello">Edmundo Hello World!</string>
+    <string name="button">Español</string>
+</resources>
